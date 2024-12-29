@@ -7,7 +7,6 @@ I am an enthusiastic **Artificial Intelligence and Data Science** undergraduate 
 - Artificial Intelligence & Machine Learning  
 - Computer Vision and Image Processing  
 - Robotics and Autonomous Systems (e.g., DD Robocon)  
-- IoT and Agriculture-Tech Solutions  
 - Freelancing Platforms with AI Integration  
 
 ## 🌱 Current Learning  
@@ -18,7 +17,7 @@ I am an enthusiastic **Artificial Intelligence and Data Science** undergraduate 
 ## 💞️ Collaboration Opportunities  
 I am always eager to collaborate on:  
 - Robotics competitions like DD Robocon.  
-- Research projects in AI, Image Processing, and IoT.  
+- Research projects in AI, Image Processing, and Data Science  
 - Innovative platforms for social and environmental impact.  
 
 ## 📈 Achievements  
