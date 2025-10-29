@@ -27,7 +27,7 @@ Absolutely 🔥 Here’s your **GitHub-optimized “About Me” section** with p
 
 ## 🤖 **About Me**
 
-I’m an **AI, Machine Learning, and Robotics enthusiast** passionate about building **intelligent and autonomous systems** that bridge **AI and real-world robotics**.
+I’m an **AI and Robotics enthusiast** passionate about building **intelligent and autonomous systems** that bridge **AI and real-world robotics**.
 I specialize in **Computer Vision**, **Deep Learning**, **Jetson-based Edge AI**, and **ROS2 for Robotics**.
 
 I currently serve as the **⭐ Technical Ambassador & R&I Lead ⭐** of the **Department of AI & DS, KCT**, and as an **AI & ROS Technical Member** of **Team QBotix**, competing in:
