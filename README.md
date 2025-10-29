@@ -14,64 +14,91 @@
 
 ---
 
-## 👀 About Me  
-
-I am **Sharan G S**, a second-year **B.Tech Artificial Intelligence and Data Science** student at **Kumaraguru College of Technology**. I specialize in **AI, Machine Learning, and Robotics**, with a strong passion for **Computer Vision, Deep Learning, Jetson Platform, and ROS2**. I am an **AI & ROS Technical Member** and also serve as the **Relationship Manager** for **Team QBotix**, competing in **DD Robocon 2024 & 2025**.  
-
-I thrive in **dynamic and challenging environments**, where I can leverage AI to solve real-world problems in **robotics, automation, and intelligent systems**.  
+Absolutely 🔥 Here’s your **GitHub-optimized “About Me” section** with proper Markdown formatting — using **bold highlights**, **emojis**, **stars**, and clean structure so it looks **visually attractive** when you paste it directly into your GitHub README (`README.md`) 👇
 
 ---
 
-## 🌟 Key Interests  
-- **Artificial Intelligence & Machine Learning**  
-- **Computer Vision and Image Processing**  
-- **Robotics and Autonomous Systems (DD Robocon, ROS2, SLAM)**  
-- **Jetson Platform for Edge AI & Robotics Applications**  
-- **AI-Driven Platforms & Intelligent Systems**  
+# 👋 Hey there, I'm **✨ Sharan G S ✨**
+
+🎓 **B.Tech Artificial Intelligence and Data Science**
+📍 **Kumaraguru College of Technology, Coimbatore**
 
 ---
 
-## 🌱 Current Learning & Projects  
-- **AI in Robotics**: Implementing **Visual SLAM and Path Planning** on ROS2 for autonomous navigation.  
-- **ATS Resume Analyzer**: Built an **AI-based FastAPI platform** that provides resume feedback and ATS compatibility checks with an elegant UI.  
-- **Swift Programming**: Learned **basic to intermediate** level Swift and developed an interactive AI-powered app.  
-- **Swift Student Challenge 2025**: Developed **Sherlock in Silicon Valley**, an AI-driven investigation game focused on **cybersecurity**.  
+## 🤖 **About Me**
+
+I’m an **AI, Machine Learning, and Robotics enthusiast** passionate about building **intelligent and autonomous systems** that bridge **AI and real-world robotics**.
+I specialize in **Computer Vision**, **Deep Learning**, **Jetson-based Edge AI**, and **ROS2 for Robotics**.
+
+I currently serve as the **⭐ Technical Ambassador & R&I Lead ⭐** of the **Department of AI & DS, KCT**, and as an **AI & ROS Technical Member** of **Team QBotix**, competing in:
+
+* 🤖 **DD Robocon 2024** – *Achieved AIR 17*
+* ⚙️ **DD Robocon 2025** – *Strongest Contender's *
+* 🚀 **IRC Rover Challenge 2026** – *On-Going*
+
+My focus is on integrating **Agentic AI**, **Edge Intelligence**, and **Autonomous Reasoning Systems** into next-generation robotics and automation.
 
 ---
 
-## 💞️ Collaboration Opportunities  
+## 🌐 **Portfolio Website**
 
-I am eager to collaborate on:  
-- **Robotics Competitions** like DD Robocon  
-- **AI Research in Computer Vision & Image Processing**  
-- **Innovative AI & ML applications for real-world impact**  
-- **Agentic AI applications, Large Language Models (LLMs), and Frameworks for Autonomous Reasoning Systems**
+🚀 Explore my projects, achievements, and innovations:
+👉 **[🌎 Visit My Portfolio](https://sharan-portfolio-psi.vercel.app)**
 
 ---
 
-## 📈 Achievements  
-- **Technical Ambassador**, Department Association of **AI & DS**  
-- **AI & ROS Technical Member + Relationship Manager**, **Team QBotix** (DD Robocon 2024 & 2025)  
-- **17th AIR** in **DD Robocon 2024** with Team QBotix  
-- **Published Research Paper** on *Dynamic Brake Health Monitoring* (Project-Based Learning program)  
-- Developed **ATS Resume Analyzer**, an AI-powered resume builder and analyzer  
-- Built **AI-powered Job Recommendation Platform** for freelancers  
-- **Event Coordinator**, *Sherlock in Silicon Valley* at **Yugam 2025**  
-- **Swift Student Challenge 2025** – Created **Sherlock in Silicon Valley**, an AI-powered interactive app  
+## 💡 **Core Interests**
+
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 👁️ **Computer Vision & Image Processing**
+* 🦾 **Robotics, ROS2, and SLAM**
+* ⚙️ **Jetson Platform & Edge AI for Real-Time Robotics**
+* 🧠 **Agentic AI & Autonomous Reasoning Systems**
 
 ---
 
-## 📫 How to Reach Me  
+## 🔬 **Current Learning & Projects**
 
-📩 **Email:** [sharangs08@gmail.com](mailto:sharangs08@gmail.com)  
-🔗 **LinkedIn:** [Sharan G S](https://linkedin.com/in/sharan-gs)  
-💻 **GitHub:** [Sharan-G-S](https://github.com/Sharan-G-S)  
+* 🦾 **AI in Robotics:** Implementing **Visual SLAM** and **Path Planning** on ROS2 for autonomous robot navigation.
+* 🧩 **ATS Resume Analyzer:** Built an **AI-powered FastAPI platform** for resume feedback and ATS optimization with an elegant UI.
+* 🕵️‍♂️ **Swift Student Challenge 2025:** Created *Sherlock in Silicon Valley* — an **AI-driven cybersecurity investigation game** in Swift.
+* 🍎 **Swift Development:** Exploring **AI + ARKit** for interactive learning-based applications.
 
 ---
 
-✨ **Let’s connect, build, and innovate together!** ✨ 🚀
+## 🌍 **Collaboration Opportunities**
 
+I’m open to collaborating on:
 
+* 🤖 **Robotics Competitions & Research Projects** (DD Robocon, IRC Rover Challenge, etc.)
+* 🧠 **AI Research in Computer Vision, Robotics, or Edge Intelligence**
+* ⚡ **Agentic AI Frameworks & LLM-based Reasoning Systems**
+* 🌱 **Innovative AI/ML Projects** with real-world impact
 
-***Made with 💚 by Sharan G S***
+---
+
+## 🏆 **Achievements**
+
+* 🎯 **Technical Ambassador & R&I Lead**, Dept. of **AI & DS**, KCT
+* 🦾 **AI & ROS Technical Member**, **Team QBotix**
+* 🥇 **AIR 17 – DD Robocon 2024** (*Team QBotix*)
+* 📄 **Published Research Paper** – *Dynamic Brake Health Monitoring (PBL Project)*
+* 💼 **AI-based Job Recommendation Platform** for freelancers
+* 🧠 **ATS Resume Analyzer**, an AI-powered resume analysis tool
+* 🕵️‍♂️ **Event Coordinator**, *Sherlock in Silicon Valley* – Yugam 2025
+* 🍎 **Swift Student Challenge 2025** – *AI-powered Cyber Investigation App*
+
+---
+
+## 📫 **Connect with Me**
+
+📧 **Email:** [sharangs08@gmail.com](mailto:sharangs08@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/sharan-gs](https://linkedin.com/in/sharan-gs)
+💻 **GitHub:** [github.com/Sharan-G-S](https://github.com/Sharan-G-S)
+🌐 **Portfolio:** [sharan-portfolio-psi.vercel.app](https://sharan-portfolio-psi.vercel.app)
+
+---
+
+✨ *“Cultivating Intelligence to Build the Future of Autonomous Systems.”* ✨
+💚 *Made with 💚 & passion by **Sharan G S*** 🚀
 
