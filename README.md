@@ -12,11 +12,7 @@
 ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0051FF?style=for-the-badge&logo=semanticweb&logoColor=white)
 
----
 
-Absolutely 🔥 Here’s your **GitHub-optimized “About Me” section** with proper Markdown formatting — using **bold highlights**, **emojis**, **stars**, and clean structure so it looks **visually attractive** when you paste it directly into your GitHub README (`README.md`) 👇
-
----
 
 # 👋 Hey there, I'm **✨ Sharan G S ✨**
 
