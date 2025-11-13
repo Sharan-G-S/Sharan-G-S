@@ -14,7 +14,6 @@
 
 
 
-# 👋 Hey there, I'm ** Sharan G S 💚**
 
 🎓 **B.Tech Artificial Intelligence and Data Science**
 📍 **Kumaraguru College of Technology, Coimbatore**
