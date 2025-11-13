@@ -14,7 +14,7 @@
 
 
 
-# 👋 Hey there, I'm **✨ Sharan G S ✨**
+# 👋 Hey there, I'm ** Sharan G S 💚**
 
 🎓 **B.Tech Artificial Intelligence and Data Science**
 📍 **Kumaraguru College of Technology, Coimbatore**
@@ -96,5 +96,5 @@ I’m open to collaborating on:
 ---
 
 ✨ *“Cultivating Intelligence to Build the Future of Autonomous Systems.”* ✨
-💚 *Made with 💚 & passion by **Sharan G S*** 🚀
+ *Made with 💚 & passion by **Sharan G S*** 🚀
 
