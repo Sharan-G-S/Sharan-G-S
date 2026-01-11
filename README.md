@@ -36,7 +36,7 @@ My focus is on integrating **Agentic AI**, **Edge Intelligence**, and **Autonomo
 
 ## 🌐 **Portfolio Website**
 
-🚀 Explore my projects, achievements, and innovations:
+🚀 Explore My Projects, Achievements, and Innovations:
 👉 **[🌎 Visit My Portfolio](https://sharan-portfolio-psi.vercel.app)**
 
 ---
