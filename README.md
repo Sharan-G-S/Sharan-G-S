@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logo=magic&logoColor=white" alt="GenAI" />
+  <img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/NLP-1C3C3C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="NLP" />
   <img src="https://img.shields.io/badge/Agentic%20AI-0051FF?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/AGI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AGI" />
+  <img src="https://img.shields.io/badge/AGI-FF0000?style=for-the-badge&logo=openai&logoColor=white" alt="AGI" />
   <br>
 
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
@@ -31,14 +31,14 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" /> <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <br>
 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
-
 <br>
 
 🎓 **B.Tech Artificial Intelligence and Data Science**
