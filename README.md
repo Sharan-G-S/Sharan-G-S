@@ -53,9 +53,9 @@ I specialize in **Computer Vision**, **Deep Learning**, **Jetson-based Edge AI**
 
 I currently serve as the **⭐ Technical Ambassador & R&I Lead ⭐** of the **Department of AI & DS, KCT**, and as an **AI & ROS Technical Member** of **Team QBotix**, competing in:
 
-* 🤖 **DD Robocon 2024** – *Achieved AIR 17*
+* 🤖 **DD Robocon 2024** – *Achieved AIR 17th*
 * ⚙️ **DD Robocon 2025** – *Strongest Contender's *
-* 🚀 **IRC Rover Challenge 2026** – *On-Going*
+* 🚀 **IRC ("International Rover Challenge 2026")** – *Achieved AIR-13th in IRC 2026*
 
 My focus is on integrating **Agentic AI**, **Edge Intelligence**, and **Autonomous Reasoning Systems** into next-generation robotics and automation.
 
