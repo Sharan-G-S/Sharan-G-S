@@ -101,9 +101,10 @@ I’m open to collaborating on:
 ## 🏆 **Achievements**
 
 * 🎯 **Technical Ambassador & R&I Lead**, Dept. of **AI & DS**, KCT
-* 🦾 **AI & ROS Technical Member**, **Team QBotix**
-* 🥇 **AIR 17 – DD Robocon 2024** (*Team QBotix*)
-* 📄 **Published Research Paper** – *Dynamic Brake Health Monitoring (PBL Project)*
+* 🦾 **AI & ROS Technical Member**, **Team QBotix-Robocon**
+* 🥇 **AIR 17th – DD Robocon 2024** (*Team QBotix*)
+* 🏅 **AI & Vision Lead – Team QBotix Rover (IRC 2026)** **AIR-13th**
+* 📄 **Published Research Paper** – *Dynamic Brake Health Monitoring (PBL Project*)*
 * 💼 **AI-based Job Recommendation Platform** for freelancers
 * 🧠 **ATS Resume Analyzer**, an AI-powered resume analysis tool
 * 🕵️‍♂️ **Event Coordinator**, *Sherlock in Silicon Valley* – Yugam 2025
